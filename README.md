@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-wharton
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in web development and music production 
 - 🌱 I’m currently teaching myself to become a full-stack web developer 
 - 💞️ I’m looking to collaborate on as many projects involving HTML/CSS/JavaScript as possible!
